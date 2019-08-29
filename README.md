@@ -25,27 +25,27 @@ check_denco_web.pl -U http://192.168.0.4/http/index.html -s ALARMS
 +++ ALARMS Monitored +++
 The following alarm statuses are monitored and will create a critical alert if any have a status of "1" with the exception of "Filter Blocked, Auxiliary Alarm, Denconet Comms Failure, Humidifier Cylinder Exhausted" which will go warning:-
 
-Airflow Fail
-Filter Blocked
-Water Detection
-Auxiliary Alarm
-High Control Temperature
-Low Control Temperature
-High Control Humidity
-Low Control Humidity
-Klixon Trip
-Compressor 1 HP Trip
-Compressor 2 HP Trip
-Compressor 3 HP Trip
-Compressor 4 HP Trip
-Circuit 1 (VRF) HP Trip
-Circuit 2 (VRF) HP Trip
-Compressor 1 LP Trip
-Compressor 2 LP Trip
-Compressor 3 LP Trip
-Compressor 4 LP Trip
-Circuit 1 (VRF) LP Trip
-Circuit 2 (VRF) LP Trip
-Denconet Comms Failure
-Humidifier Cylinder Exhausted
-Refrigerant Leak Detection
+Airflow Fail,
+Filter Blocked,
+Water Detection,
+Auxiliary Alarm,
+High Control Temperature,
+Low Control Temperature,
+High Control Humidity,
+Low Control Humidity,
+Klixon Trip,
+Compressor 1 HP Trip,
+Compressor 2 HP Trip,
+Compressor 3 HP Trip,
+Compressor 4 HP Trip,
+Circuit 1 (VRF) HP Trip,
+Circuit 2 (VRF) HP Trip,
+Compressor 1 LP Trip,
+Compressor 2 LP Trip,
+Compressor 3 LP Trip,
+Compressor 4 LP Trip,
+Circuit 1 (VRF) LP Trip,
+Circuit 2 (VRF) LP Trip,
+Denconet Comms Failure,
+Humidifier Cylinder Exhausted,
+Refrigerant Leak Detection,
